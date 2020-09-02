@@ -1,0 +1,12 @@
+{
+  "name": "transacti",
+  "displayName": "transacti",
+  "expo": {
+    "name": "transacti",
+    "slug": "transacti",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
